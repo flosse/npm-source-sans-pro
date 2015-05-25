@@ -1,0 +1,20 @@
+{
+  "name": "source-sans-pro",
+  "version": "2.010",
+  "description": "Source Sans Pro font family by Adobe",
+  "main": "source-sans-pro.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flosse/npm-source-sans-pro.git"
+  },
+  "keywords": [
+    "font",
+    "sans"
+  ],
+  "author": "Paul D. Hunt",
+  "license": "SIL OFL 1.1",
+  "bugs": {
+    "url": "https://github.com/flosse/npm-source-sans-pro/issues"
+  },
+  "homepage": "https://github.com/flosse/npm-source-sans-pro"
+}
